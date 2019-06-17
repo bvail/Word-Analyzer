@@ -7,4 +7,4 @@ WordAnalyzer_GUI.py is the GUI which references the class. Run this file for the
 
 TSATD_Sample.docx is docx writing sample that can be used to test the app.
 
-* Only docx files ares currently supported
+* Only docx files are currently supported
