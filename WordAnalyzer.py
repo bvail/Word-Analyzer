@@ -94,8 +94,8 @@ class WordAnalyzer():
         for i in range(len(self._word_list)):
             if key == self._word_list[i][0]:
                 return self._word_list[i][1]
-            else:
-                return None
+        
+        return None
    
  
  # function to sort 2d array by ""count row    
